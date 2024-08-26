@@ -1,0 +1,2 @@
+10:52:35.585 [RMI TCP Connection(2)-127.0.0.1] INFO  l.i.i.controller.CustomerController -- Initializing StudentController with call init method
+12:02:08.636 [RMI TCP Connection(2)-127.0.0.1] INFO  l.i.i.controller.CustomerController -- Initializing StudentController with call init method
