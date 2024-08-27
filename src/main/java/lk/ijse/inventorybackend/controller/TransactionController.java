@@ -45,7 +45,7 @@ public class TransactionController extends HttpServlet {
             }
 
             connection.close();
-            Writer.write("ORDER PLACES!!");
+            Writer.write("ORDER PLACED SUCCESSFULLY !!!");
 
         } catch (SQLException e) {
             throw new RuntimeException(e);
